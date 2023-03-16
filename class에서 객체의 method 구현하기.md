@@ -2,7 +2,7 @@
 
 class를 통해서 객체를 생성할 때 모든 객체가 공유하는 공통(prototype)의 객체를 생성하는 방법을 소개한다. 
 
-기존에 constructor function은 이러한 방식으로 구현하였다
+기존에 constructor function은 이러한 방식으로 구현하였다.
 
 ```jsx
 function Person(name, first, second, third){

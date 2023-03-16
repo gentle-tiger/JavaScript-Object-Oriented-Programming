@@ -2,7 +2,7 @@
 
 **prototype based language**
 
-JavaScript의 prototype이 필요한 이유와 prototype을 통해서 코드의 재사용성과 성능을 향상시키는 방법을 알려드립니다.
+JavaScript의 prototype이 필요한 이유와 prototype을 통해서 코드의 재사용성과 성능을 향상시키는 방법.
 
 [[Javascript ] 프로토타입 이해하기](https://medium.com/@bluesh55/javascript-prototype-이해하기-f8e67c286b67)
 
