@@ -6,6 +6,8 @@ JavaScript의 prototype이 필요한 이유와 prototype을 통해서 코드의 
 
 [[Javascript ] 프로토타입 이해하기](https://medium.com/@bluesh55/javascript-prototype-이해하기-f8e67c286b67)
 
+[Prototype - MDN Web Docs 용어 사전: 웹 용어 정의 | MDN](https://developer.mozilla.org/ko/docs/Glossary/Prototype)
+
 ## prototype이 필요한 이유
 
 kim이라는 객체를 생성할 때  Person이라고 하는 함수를 생성자로 동작시켰다. 
@@ -74,6 +76,11 @@ console.log("lee.sum()", lee.sum());
 </aside>
 
 변수들은 생성자 안에 넣는 것이 일반적이고, 함수는 특별한 이유가 없다면 prototype을 사용한다. 
+
+constructor function의 역할 
+
+1. 객체를 만든다. new Person 
+2. 객체의 초기상태를 만든다. 
 
 내 답변
 
