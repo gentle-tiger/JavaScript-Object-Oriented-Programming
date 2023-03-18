@@ -1,1 +1,0 @@
-# class에서 객체의 method 구현하기
